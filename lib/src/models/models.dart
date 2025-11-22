@@ -1,3 +1,5 @@
+// ignore_for_file: unused_element
+
 library;
 
 import 'package:json_annotation/json_annotation.dart';
